@@ -27,15 +27,15 @@ JavaScript
 
 Weather API
 
-![Weather App](images/ss.front)
+![Weather App](images/ss.front.jpeg)
 
-![Weather App](images/ss.clearsky)
+![Weather App](images/ss.clearsky.jpeg)
 
-![Weather App](images/ss.rain)
+![Weather App](images/ss.rain.jpeg)
 
-![Weather App](images/ss.clouds)
+![Weather App](images/ss.clouds.jpeg)
 
-![Weather App](images/ss.lnf)
+![Weather App](images/ss.lnf.jpeg)
 
 
 
