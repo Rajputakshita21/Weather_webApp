@@ -1,5 +1,5 @@
 
-<h1 align="center">🌤️ Weather WedApp</h1>
+<h1 align="center">🌤️ Weather WebApp</h1>
 
 A simple and responsive weather application built with HTML, CSS, and JavaScript. It uses a weather API to display current weather information.
 
