@@ -1,7 +1,16 @@
-# Weather_webApp
+
 <h1 align="center">🌤️ Weather WedApp</h1>
 
 A simple and responsive weather application built with HTML, CSS, and JavaScript. It uses a weather API to display current weather information.
+
+<table align="center">
+  <tr>
+    <td><img src="images/ss.clouds.jpeg" width="300"></td>
+    <td><img src="images/ss.rain.jpeg" width="300"></td>
+  </tr>
+</table>
+
+
 
 ## Features
 
